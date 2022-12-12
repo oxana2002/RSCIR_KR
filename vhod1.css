@@ -1,0 +1,195 @@
+* {
+    font-family: Arial;
+    font-style: normal;
+    }
+    
+.hello{
+    /* МЫ СКУЧАЛИ! */
+  position: absolute;
+  width: 226px;
+  height: 40px;
+  left: 153px;
+  top: 236px;
+  font-weight: 755;
+  font-size: 30px;
+  line-height: 134.02%;
+  text-transform: uppercase;  
+  color: #DBA337;
+}  
+.zadnik{
+    position: absolute;
+  width: 921px;
+  height: 755px;
+  left: 0px;
+  top: 0px;
+  z-index: -2;
+  background: #4C5449;
+  }
+  .data1{
+/* ЛОГИН: */
+
+width: 66px;
+height: 24px;
+font-weight: 400;
+font-size: 17.711px;
+line-height: 134.02%;
+text-transform: uppercase;
+color: #FFFFFF;
+margin-left: 153px;
+margin-top: 300px;
+  }
+  .data2{
+/* ПАРОЛЬ: */
+
+width: 79px;
+height: 24px;
+font-weight: 400;
+font-size: 17.711px;
+line-height: 134.02%;
+text-transform: uppercase;
+color: #FFFFFF;
+margin-left: 153px;
+  }
+  INPUT{
+    border: 0;
+    padding: 7px 15px;
+    border: 1px solid #4C5449;
+    position: relative; 
+    background: transparent;
+    background-color: #4A4C42;
+    color: #ffe;
+    margin-left:219px;
+    width: 296.42px;
+    height: 31.25px;
+    margin-top: 4px;
+  }
+
+  .i1{
+    margin-top: 300px;
+  }
+  .voyt{
+    position: absolute;
+width: 296.42px;
+height: 51.33px;
+left: -60px;
+top: 559px;
+border: 1px solid #DBA337;
+background: #DBA337;
+box-shadow: 0px 0px 8px #DBA337;
+  }
+  .voyt:hover {
+    background: #a67d2a;
+    border: 1px solid #a67d2a;
+    box-shadow: 0px 0px 8px #a67d2a;
+  }
+
+/* ____________________________________ */
+
+   .otprav {
+    position: absolute;
+    width: 297px;
+    height: 51.33px;
+    left: 102px;
+    top: 541px;
+    border: 1px solid #DBA337;
+    background: #DBA337;
+    box-shadow: 0px 0px 8px #DBA337;
+  }
+  
+  .otprav:hover {
+    background: #a67d2a;
+    border: 1px solid #a67d2a;
+    box-shadow: 0px 0px 8px #a67d2a;
+  }
+  .zagolov{
+    position: absolute;
+width: 649px;
+height: 54px;
+left: 193px;
+top: 213px;
+font-weight: 700;
+font-size: 40px;
+line-height: 134.02%;
+text-transform: uppercase;
+color: #FFFFFF;
+  }
+  .dat{
+    position: absolute;
+    width: 297px;
+    height: 31.25px;
+    left: 320px;
+    top: 378px;
+    background: #4A4C42;
+    color: #ffe;
+  }
+/* _________________________ */
+
+  .pnr{
+    /* ПРОВЕРЬТЕ СВОЙ СТАТУС PNR: */
+position: absolute;
+width: 642px;
+height: 54px;
+left: 199px;
+top: 210px;
+font-weight: 700;
+font-size: 40px;
+line-height: 134.02%;
+text-transform: uppercase;
+color: #DBA337;
+  }
+
+  .submit{
+    position: absolute;
+    width: 297px;
+    height: 51.33px;
+    left: -92px;
+    top: 275px;
+    border: 1px solid #DBA337;
+    background: #DBA337;
+    box-shadow: 0px 0px 8px #DBA337;
+  }
+  .submit:hover {
+    background: #a67d2a;
+    border: 1px solid #a67d2a;
+    box-shadow: 0px 0px 8px #a67d2a;
+  }
+  .otmen{
+    position: absolute;
+    width: 297px;
+    height: 51.33px;
+    left: -92px;
+    top: 363px; 
+    background: #49453C;
+    box-shadow: 0px 0px 8px #49453C;
+    border: 1px solid #49453C;
+  }
+  .otmen:hover {
+    background: #454139;
+    border: 1px solid #454139;
+    box-shadow: 0px 0px 8px #454139;
+    }
+    .epnr{
+      left: -110px;
+      top: 10px;
+    }
+    .login{
+      /* войти в систему */
+
+
+position: absolute;
+width: 98px;
+height: 13px;
+left: 231px;
+/* top: 598px; */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 134.02%;
+/* or 13px */
+
+text-transform: uppercase;
+
+color: #FFFFFF;
+    }
